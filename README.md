@@ -1,3 +1,7 @@
+# прежде всего мы осуществили парсинг сюжетов с новостями сайта интерфакс - parser_py.py
+
+# обучение финальной модели в train_mT5.ipynb
+
 # перед запуском модели нужно скачать веса и положить в папку mT5_checkpoint
  - ссылка: https://drive.google.com/file/d/16dNM9-YjA1o7enW14h2uXuOlyAxJ2D0o/view?usp=sharing
 
